@@ -1,0 +1,2 @@
+v1
+{"path":"hdfs://ip-10-0-0-16.ec2.internal:8020/user/ec2-user/real-time-project/warehouse/op2/part-00000-ed035275-41db-4089-b877-492914eacdba-c000.json","size":0,"isDir":false,"modificationTime":1648482324952,"blockReplication":3,"blockSize":134217728,"action":"add"}

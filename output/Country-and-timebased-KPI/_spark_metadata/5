@@ -1,0 +1,5 @@
+v1
+{"path":"hdfs://ip-10-0-0-16.ec2.internal:8020/user/ec2-user/real-time-project/warehouse/op2/part-00000-880cd7b4-db9e-4591-b604-a65d2c19f70e-c000.json","size":0,"isDir":false,"modificationTime":1648481862535,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-16.ec2.internal:8020/user/ec2-user/real-time-project/warehouse/op2/part-00052-43ddd442-5e45-45a9-8d12-cf708dc75ad7-c000.json","size":155,"isDir":false,"modificationTime":1648481868033,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-16.ec2.internal:8020/user/ec2-user/real-time-project/warehouse/op2/part-00071-c37c3ad5-7541-4fca-bf28-5d43ae1b768b-c000.json","size":166,"isDir":false,"modificationTime":1648481868861,"blockReplication":3,"blockSize":134217728,"action":"add"}
+{"path":"hdfs://ip-10-0-0-16.ec2.internal:8020/user/ec2-user/real-time-project/warehouse/op2/part-00138-3fa7a039-3b9b-4c96-9341-ff791c097fe3-c000.json","size":167,"isDir":false,"modificationTime":1648481902327,"blockReplication":3,"blockSize":134217728,"action":"add"}
