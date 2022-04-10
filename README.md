@@ -15,6 +15,9 @@ Real time data processing using Kafka and Apache Spark
 
 # access and move files
 `ssh -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com`
+
 `scp -i "cloudera.pem" real-time-project/spark-streaming.py ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project`
+
 `scp -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project/spark-streaming.py C:\Users\yoksu\Downloads\real-time-project`
+
 `scp -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project/op1 C:\Users\yoksu\Downloads\submission\`
