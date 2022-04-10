@@ -14,10 +14,10 @@ Real time data processing using Kafka and Apache Spark
 `spark2-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.2 spark-streaming.py 18.211.252.152 9092 real-time-project`
 
 # access and move files
-`ssh -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com`
+`ssh -i "cloudera.pem" <ec2-user>`
 
-`scp -i "cloudera.pem" real-time-project/spark-streaming.py ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project`
+`scp -i "cloudera.pem" real-time-project/spark-streaming.py <ec2-user>:~/real-time-project`
 
-`scp -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project/spark-streaming.py C:\Users\yoksu\Downloads\real-time-project`
+`scp -i "cloudera.pem" <ec2-user>:~/real-time-project/spark-streaming.py C:\Users\yoksu\Downloads\real-time-project`
 
-`scp -i "cloudera.pem" ec2-user@ec2-34-239-166-22.compute-1.amazonaws.com:~/real-time-project/op1 C:\Users\yoksu\Downloads\submission\`
+`scp -i "cloudera.pem" <ec2-user>:~/real-time-project/op1 C:\Users\yoksu\Downloads\submission\`
